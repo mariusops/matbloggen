@@ -1,10 +1,10 @@
-# Oppskrift 2
+# 🍫 Oppskrift 2
 
 ## Ingredienser
 
-- 200g sjokolade
-- 100g smør
-- 3 egg
+- 🍫 200g sjokolade
+- 🧈 100g smør
+- 🥚 3 egg
 
 ## Fremgangsmåte
 

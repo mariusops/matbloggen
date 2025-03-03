@@ -1,8 +1,7 @@
-# Velkommen til Matbloggen
-
-Velkommen til Matbloggen!
+# 🍽️ Matbloggen
+Enkle oppskrifter for hverdagen 
 
 ## Oppskrifter
 
-- [Fiskepasta](recipes/recipe1.md)
-- [Oppskrift 2](recipes/recipe2.md)
+- [🐟 Fiskepasta](recipes/recipe1.md)
+- [🍫 Oppskrift 2](recipes/recipe2.md)
