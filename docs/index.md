@@ -1,3 +1,7 @@
+---
+title: Forside
+---
+
 # 🍽️ Matbloggen
 Enkle oppskrifter for hverdagen 
 
