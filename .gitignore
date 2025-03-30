@@ -1,1 +1,4 @@
 venv*
+site/
+*.log
+*.tmp
