@@ -23,13 +23,16 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Build the site
-        run: mkdocs build --clean
+        run: mkdocs build
+
+      - name: Compress site artifact
+        run: tar -czf site.tar.gz -C site .
 
       - name: Upload site artifact
         uses: actions/upload-artifact@v4
         with:
           name: github-pages
-          path: site
+          path: site.tar.gz
 
   deploy:
     name: Deploy
@@ -40,15 +43,14 @@ jobs:
       id-token: write
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Download site artifact
+      - name: Download and extract site artifact
         uses: actions/download-artifact@v4
         with:
           name: github-pages
-      
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
+
+      - name: Extract site artifact
+        run: tar -xzf site.tar.gz
 
       - name: Deploy to GitHub Pages
         id: deployment
