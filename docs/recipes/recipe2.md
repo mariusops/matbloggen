@@ -1,13 +1,27 @@
-# 🍫 Oppskrift 2
+# Trøffelpasta
 
 ## Ingredienser
 
-- 🍫 200g sjokolade
-- 🧈 100g smør
-- 🥚 3 egg
+- Trøffelmos
+- Porcini-buljong, 1 terning
+- Champignon, 5 store
+- Pasta tagliatelle, penne eller linguine f.eks.
+- Matfløte, en boks(3 dl)
+- Parmesan
+- Hvitløk, 2 fedd
+- Olivenolje
+- Salt og pepper
 
 ## Fremgangsmåte
 
-1. Smelt sjokoladen og smøret sammen.
-2. Visp eggene og bland med sjokoladeblandingen.
-3. Stek i ovnen på 180 grader i 20 minutter.
+1. Hakk sopp og hvitløk i små biter.
+2. Stek sopp og hvitløk i litt olivenolje.
+3. Ha litt pepper over soppen.
+4. Løs opp buljongterningen i 2 dl vann og tilsett i pannen.
+5. Tilsett trøffelmos og matfløte.
+6. La det småkoke i 10-15 minutter.
+7. Kok pasta etter 1. minutt mindre enn det står på pakken.
+8. Sil av pastaen og tilsett i sausen.
+9. La det småkoke i 2-3 minutter.
+10. Server med parmesan.
+11. Buon Appetito!
