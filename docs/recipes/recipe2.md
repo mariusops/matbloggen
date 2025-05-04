@@ -20,7 +20,7 @@
 4. 💧 Løs opp buljongterningen i 2 dl vann og tilsett i pannen.
 5. 🍄 Tilsett trøffelmos og matfløte.
 6. ⏲️ La det småkoke i 10-15 minutter.
-7. 🍝 Kok pasta etter 1 minutt mindre enn det står på pakken.
+7. 🍝 Kok pasta 1. minutt mindre enn det står på pakken. Tilsett litt salt i vannet. 
 8. 🥣 Sil av pastaen og tilsett i sausen.
 9. ⏲️ La det småkoke i 2-3 minutter.
 10. 🧀 Server med parmesan.
