@@ -8,4 +8,4 @@ Enkle oppskrifter for hverdagen
 ## Oppskrifter
 
 - [🐟 Fiskepasta](recipes/recipe1.md)
-- [🍫 Oppskrift 2](recipes/recipe2.md)
+- [🍝 Trøffelpasta](recipes/recipe2.md)
