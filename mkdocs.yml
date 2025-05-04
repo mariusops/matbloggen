@@ -6,6 +6,6 @@ nav:
   - Forside: index.md
   - Oppskrifter:
       - Fiskepasta: recipes/recipe1.md
-      - Oppskrift 2: recipes/recipe2.md
+      - Trøffelpasta: recipes/recipe2.md
 
 docs_dir: docs
